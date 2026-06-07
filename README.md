@@ -157,5 +157,8 @@ ETIKALA GAYATHRI
 CODTECH Artificial Intelligence Internship
 
 #OUTPUT
-
+#Task1_Text_Summarizer
 <img width="1912" height="572" alt="Image" src="https://github.com/user-attachments/assets/4b439cde-20ff-447c-9967-857e4a2ab837" />
+#Task2_Speech_Recognition
+<img width="1912" height="212" alt="Image" src="https://github.com/user-attachments/assets/a4faa723-51eb-42df-bcd8-a75a57fa578e" />
+
