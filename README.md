@@ -156,3 +156,6 @@ ETIKALA GAYATHRI
 
 CODTECH Artificial Intelligence Internship
 
+#OUTPUT
+
+<img width="1912" height="572" alt="Image" src="https://github.com/user-attachments/assets/4b439cde-20ff-447c-9967-857e4a2ab837" />
