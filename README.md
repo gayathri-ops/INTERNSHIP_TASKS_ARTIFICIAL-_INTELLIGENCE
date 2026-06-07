@@ -163,4 +163,5 @@ CODTECH Artificial Intelligence Internship
 <img width="1912" height="212" alt="Image" src="https://github.com/user-attachments/assets/a4faa723-51eb-42df-bcd8-a75a57fa578e" />
 Task3_Neural_Style_Transfer
 <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/3c692e36-6972-4a20-bf93-3cecb11c4b4e" />
-
+Task4_Generative_Text_Model
+<img width="1902" height="705" alt="Image" src="https://github.com/user-attachments/assets/27ba83d9-6e82-424d-abe1-4b0afb0b5c43" />
