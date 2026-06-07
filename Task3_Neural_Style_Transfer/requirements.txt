@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-hub
+pillow
+matplotlib
+numpy
