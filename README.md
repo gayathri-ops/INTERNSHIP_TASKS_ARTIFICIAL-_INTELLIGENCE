@@ -140,6 +140,6 @@ Through this internship, practical knowledge was gained in developing AI applica
 
 ## Author
 
-Gurram Venkateshwarlu
+Etikala Gayathri
 
 CODTECH Artificial Intelligence Internship
